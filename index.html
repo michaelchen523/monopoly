@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+  body {
+    font-family: Helvetica, sans-serif;
+    background-color: #eee;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .board-container {
+    position: relative;
+    width: 50%;
+    height: 100%;
+  }
+
+  .second-container {
+    width: 50%;
+    flex-direction: column;
+  }
+
+</style>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Monopoly</title>
+</head>
+
+<body>
+  <h1>Analysis of a Monopoly dataset</h1>
+  <div class="container">
+    <div class="board-container">
+      <svg id="boardSVG" />
+    </div>
+    <div class="second-container">
+      <div class="scatterplot-container">
+        <svg id="scatterplotSVG" />
+      </div>
+      <div class="trellis-container">
+        <svg id="trellisSVG" />
+      </div>
+    </div>
+  </div>
+<script type="text/javascript" src="index_bundle.js"></script></body>
+
+</html>
