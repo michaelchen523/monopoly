@@ -1,0 +1,41 @@
+Space Name,Family,Frequency,Price,Improvement Cost,ROI Base,ROI 1 House,ROI 2 House,ROI 3 House,ROI 4 House,ROI Hotel,Utility Rent,Railroad Rent,Property Rent,Rent with Set,Rent 1 House,2 Houses,3 Houses,4 Houses,Hotel,X-Pos,Y-Pos,Property?,Board Name
+Jail,Corners,0.0562,,,0,0,0,0,0,0,,,,,,,,,,1,1,0,Jail
+Illinois Ave,Red,0.0303,240,150,396,61,24,11,28,28,,,20,40,100,300,750,925,1100,5,11,1,Illinois*Avenue
+New York Ave,Orange,0.0289,200,100,433,54,24,9,17,17,,,16,32,80,220,600,800,1000,1,10,1,New York*Avenue
+Go,Corners,0.0281,,,0,0,0,0,0,0,,,,,,,,,,11,1,0,Go
+B & O Railroad,Railroads,0.0278,200,,0,0,0,0,0,0,,25,,,,,,,,6,11,0,B & O*Railroad
+Reading Railroad,Railroads,0.0278,200,,0,0,0,0,0,0,,25,,,,,,,,6,1,0,Reading*Railroad
+Community Chest #2,Cards,0.0275,,,0,0,0,0,0,0,,,,,,,,,,1,8,0,Community*Chest #2
+Tennessee Ave,Orange,0.0274,180,100,469,65,28,10,18,18,,,14,28,70,200,550,750,950,1,9,1,Tennessee*Avenue
+Pennsylvania Railroad,Railroads,0.0259,200,,0,0,0,0,0,0,,25,,,,,,,,1,6,0,Pennsyl*-vania*Railroad
+Kentucky Ave,Red,0.0259,220,150,471,80,36,12,33,33,,,18,36,90,250,700,875,1050,2,11,1,Kentucky*Avenye
+Community Chest #3,Cards,0.0259,,,0,0,0,0,0,0,,,,,,,,,,11,8,0,Community*Chest #3
+St. James Place,Orange,0.0258,180,100,499,69,29,11,19,19,,,14,28,70,200,550,750,950,1,7,1,St. James*Place
+Indiana Ave,Red,0.0256,220,150,476,81,36,13,33,33,,,18,36,90,250,700,875,1050,4,11,1,Indiana*Avenue
+Chance #2,Cards,0.0255,,,0,0,0,0,0,0,,,,,,,,,,3,11,0,Chance #2
+Free Parking,Corners,0.0255,,,0,0,0,0,0,0,,,,,,,,,,1,11,0,Free Parking
+Atlantic Ave,Yellow,0.0252,260,150,468,67,27,12,33,33,,,22,44,110,330,800,975,1150,7,11,1,Atlantic*Avenue
+Pacific Ave,Green,0.0250,300,200,462,77,30,15,40,45,,,26,52,130,390,900,1100,1275,11,10,1,Pacific*Avenue
+Water Works,Utilities,0.0249,150,,0,0,0,0,0,0,7,,,,,,,,,9,11,0,Water*Works
+St. Charles Place,Magenta,0.0248,140,100,563,100,40,13,23,32,,,10,20,50,150,450,625,750,1,2,1,St. Charles*Place
+Ventnor Ave,Yellow,0.0248,260,150,476,68,27,12,34,34,,,22,44,110,330,800,975,1150,8,11,1,Ventnor*Avenue
+North Carolina Ave,Green,0.0241,300,200,478,79,31,16,41,47,,,26,52,130,390,900,1100,1275,11,9,1,North*Carolina*Avenue
+Virginia Ave,Magenta,0.0240,160,100,555,86,34,13,20,20,,,12,24,60,180,500,700,900,1,5,1,Virgina*Avenue
+Go To Jail,Corners,0.0239,,,0,0,0,0,0,0,,,,,,,,,,11,11,0,Go To Jail
+Marvin Gardens,Yellow,0.0238,280,150,489,65,26,12,35,35,,,24,48,120,360,850,1025,1200,10,11,1,Marvin*Gardens
+Pennsylvania Ave,Green,0.0238,320,200,479,68,27,15,41,41,,,28,56,150,450,1000,1200,1400,11,7,1,Pennsyl*-vania*Avenue
+Boardwalk,Dark Blue,0.0232,400,200,344,57,21,10,28,28,,,50,100,200,600,1400,1700,2000,11,2,1,Boardwalk
+States Ave,Magenta,0.0229,140,100,610,109,43,14,24,34,,,10,20,50,150,450,625,750,1,4,1,States*Avenue
+Electric Company,Utilities,0.0223,150,,0,0,0,0,0,0,7,,,,,,,,,1,3,0,Electric*Company
+Short Line,Railroads,0.0222,200,,0,0,0,0,0,0,,25,,,,,,,,11,6,0,Short*Line
+Income Tax,Tax,0.0221,,,0,0,0,0,0,0,,,,,,,,,,7,1,0,Income*Tax
+Chance #1,Cards,0.0218,,,0,0,0,0,0,0,,,,,,,,,,4,1,0,Chance #1
+Oriental Ave,Light Blue,0.0217,100,50,768,96,38,12,17,15,,,6,12,30,90,270,400,550,5,1,1,Oriental*Avenue
+Connecticut Ave,Light Blue,0.0216,120,50,693,72,38,11,15,15,,,8,16,40,100,300,450,600,2,1,1,Connecticut*Avenue
+Vermont Ave,Light Blue,0.0214,100,50,779,97,38,12,17,15,,,6,12,30,90,270,400,550,3,1,1,Vermont*Avenue
+Luxury Tax,Tax,0.0209,,,0,0,0,0,0,0,,,,,,,,,,11,3,0,Luxury*Tax
+Mediterranean Ave,Purple,0.0208,60,50,1443,300,120,40,34,26,,,2,4,10,30,90,160,250,10,1,1,Mediter*-ranean*Avenue
+Park Place,Dark Blue,0.0204,350,200,489,69,30,16,48,48,,,35,70,175,500,1100,1300,1500,11,4,1,Park*Place
+Baltic Ave,Purple,0.0203,60,50,737,153,61,20,17,18,,,4,8,20,60,180,320,450,8,1,1,Baltic*Avenue
+Community Chest #1,Cards,0.0202,,,0,0,0,0,0,0,,,,,,,,,,9,1,0,Community*Chest #1
+Chance #3,Cards,0.0200,,,0,0,0,0,0,0,,,,,,,,,,11,5,0,Chance #3
